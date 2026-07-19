@@ -1,0 +1,7 @@
+Project Plan
+
+1. Requirement Gathering
+2. Resource Allocation
+3. Development
+4. Testing
+5. Deployment
